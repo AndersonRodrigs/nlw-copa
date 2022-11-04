@@ -10,14 +10,14 @@
   --card-title-border-color: #0052B4;
   --card-color-primary:#0052B4;
   --card-bg-color:#202024;
-  --bg: url(/assets/bg-blue.svg);
+  --bg: url(./assets/bg-blue.svg);
 }
 
 body.yellow {
   --card-title-border-color: #746615;
   --card-color-primary:#f7dd43;
   --card-bg-color:#1d1c19;
-  --bg: url(/assets/bg-yellow.svg);
+  --bg: url(./assets/bg-yellow.svg);
 }
 
 body.green {
