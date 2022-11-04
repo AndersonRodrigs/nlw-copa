@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Calendário da copra é um projeto que mostra os jogos da Copa de 2022.
+O Calendário da copa é um projeto que mostra os jogos da Copa de 2022.
 
 ## 🔖 Layout
 
